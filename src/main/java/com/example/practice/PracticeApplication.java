@@ -12,6 +12,8 @@ public class PracticeApplication {
 
 	public void printing(String firstName, String lastName){
 		System.out.println(firstName+""+lastName);
+		System.out.println("WIILL SEE YOU SOON");
 	}
-
+   
+	
 }
