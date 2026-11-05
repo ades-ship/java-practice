@@ -10,4 +10,8 @@ public class PracticeApplication {
 		SpringApplication.run(PracticeApplication.class, args);
 	}
 
+	public void printing(String firstName, String lastName){
+		System.out.println(firstName+""+lastName);
+	}
+
 }
